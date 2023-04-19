@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+  }
+  #X, #o {
+    width: 150px;
+    height: 70px;
+    font-size: 50px;
+    cursor: pointer;
+    color: blue;
+  }
+  table {
+    margin: 0 auto;
+  }
+  td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 40px;
+    font-weight: bold;
+    border: 1px solid black;
+  }
